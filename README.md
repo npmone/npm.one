@@ -4,7 +4,7 @@
 
 ## About
 
-This repository is used as an issue tracker for [npm.one](npm.one) website.
+This repository is used as an issue tracker for [npm.one](https://npm.one) website.
 
 If you have a feature request for npm.one or you face any issues on npm.one, you can open an issue here.
 We highly appreciate it.
